@@ -5,3 +5,4 @@ Papers and presentations of research in undergraduate and graduate eduction.
   - SolizJ_Phys797_Research_Paper1.pdf is paper of physics research on dark matter and exoplanets with Dr. Fridolin Weber for Phys 797 Research at San Diego State University (SDSU)
   - SolizJ_Astr650_final_presentation_AGNMerger.pdf is presentation of detecing and measuring AGN in galaxy mergers as semester course project for Astr 650 Galaxies under Kate Rubin at SDSU.
   - Welsh_Soliz_CoolStars22_poster.pdf poster of Postgraduate Research and Co-Author with Dr. William Welsh for the Cool Stars 22 conference.
+  - SolizJoseph_MS_Thesis_SDSU.pdf copy of M.S. thesis on the possiblity of oxygenic photosynthesis occurance on an Earth-analog TRAPPIST-1e.
